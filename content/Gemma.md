@@ -8,7 +8,7 @@ header_img = "https://cdn-images-1.medium.com/max/3956/1*RM3sc-6a2czO_4GGBDzZ9w.
 header_desc = ""
 +++
 
-[\*Gemma Copeland](https://twitter.com/GemCopeland) is an interdependent digital designer building digital tools that facilitate and empower grassroots movements and organizations. She is part of a London-based nonprofit workers cooperative of software engineers, designers and organizers called [Common Knowledge](https://commonknowledge.coop/). In this interview, I talked to Gemma about the ins and outs of running a grassroots activism focused co-op, about the nature and best practices for contemporary protest and political organizing, as well as about saving \*ourselves from a dystopian future.
+_[Gemma Copeland](https://twitter.com/GemCopeland) is an interdependent digital designer building digital tools that facilitate and empower grassroots movements and organizations. She is part of a London-based nonprofit workers cooperative of software engineers, designers and organizers called [Common Knowledge](https://commonknowledge.coop/). In this interview, I talked to Gemma about the ins and outs of running a grassroots activism focused co-op, about the nature and best practices for contemporary protest and political organizing, as well as about saving ourselves from a dystopian future._
 
 **Hi Gemma! What’s your professional background and what are the key areas you’ve been working on?**
 
