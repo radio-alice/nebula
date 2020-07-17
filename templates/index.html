@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nebula Mag</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="global.css" />
+  </head>
+  <body>
+    <header class="stack">
+      <h1>nebula</h1>
+      <h2>[some subtitle here]</h2>
+    </header>
+    <main>
+      <div class="grid">
+        {% for page in section.pages %}
+        <section>
+          <a href="{{page.slug}}">
+            <div class="card stack">
+              <img
+                src="{{page.extra.header_img}}"
+                alt="{{page.extra.header_desc}}"
+              />
+              <h3>{{ page.title }}</h3>
+              <p class="meta"
+                ><em>{{ page.extra.author}}</em> - {{page.date}}</p
+              >
+            </div>
+          </a>
+        </section>
+        {% endfor %}
+      </div>
+      <div class="about stack">
+        <h2>about</h2>
+        <p>
+          Nebula is a publication exploring intricacies of the collective,
+          cooperative, anarchist, utopian and open source organizing, and
+          strategies for non-hierarchical models and consensus decision-making.
+          Showcasing projects and people creating collaborative futures.</p
+        >
+        <p>
+          Already in the early 1990s there was a growing number of alternative
+          organizational forms appearing, whether inspired by anarchism,
+          syndicalism, the ecological movement, the co-operative movement,
+          libertarian communism, self-help groups or by feminism. These
+          organizations offered an alternative to the dominant form of the
+          capitalist business enterprise, repressing autonomous human
+          development. Nevertheless, most studies of management have focused
+          attention to power relations in mainstream capitalist organizations.
+          This has sidelined the development of alternative, more humane, ways
+          of organizing that arise globally, which we want to explore in our
+          publication.
+        </p>
+        <p>
+          The aim of this publication is to create a bridge between the existing
+          and operating cooperative, collective, anarchist, utopian, and social
+          impact projects having real impact with the decentralized governance
+          world as envisioned by the DAO community. We want to explore the
+          intricacies of those groups and find out how they organize, experiment
+          with non-hierarchical models and consensus decision-making, what are
+          their principles and strategies, how do they approach the question of
+          leadership, what kind of new forms of organizational practices and
+          subjectivities do they cultivate.
+        </p>
+      </div>
+    </main>
+    <marquee behavior="scroll" direction="left">SOME MIX PLAYING HERE</marquee>
+  </body>
+</html>

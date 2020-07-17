@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{page.title}}</title>
+    <link rel="stylesheet" href="global.css" />
+    <link rel="stylesheet" href="page.css" />
+  </head>
+  <body>
+    <header style="background-image: url({{page.extra.header_img}});">
+      <div class="stack">
+        <h1><span>{{page.title}}</span></h1>
+        <h2>{{page.extra.author}}</h2>
+        <h3>{{page.date}}</h3>
+        <p class="caption"><em>{{page.extra.header_desc}}</em></p>
+      </div>
+    </header>
+    <article class="stack">
+      {{ page.content | safe }}
+    </article>
+    <marquee behavior="scroll" direction="left">SOME MIX PLAYING HERE</marquee>
+  </body>
+</html>
