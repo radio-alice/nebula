@@ -1,3 +1,15 @@
+@font-face {
+  font-family: '0xA000-Mono';
+  src: url('0xA000-Mono.ttf');
+}
+@font-face {
+  font-family: 'Selectric';
+  src: url('SelectricRoman.otf');
+}
+@font-face {
+  font-family: 'Standard';
+  src: url('standard-book.otf');
+}
 :root {
   --ratio: 1.5;
   --s-6: calc(var(--s-5) / var(--ratio));

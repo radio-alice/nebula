@@ -5,12 +5,11 @@ body {
 }
 header {
   font-family: Selectric;
-  min-height: 75vh;
   padding: var(--s1);
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
   display: flex;
-  justify-content: flex-end !important;
   align-items: center;
   flex-direction: column;
 }
@@ -21,6 +20,11 @@ header h3 {
 header div {
   text-shadow: var(--light-5) 0 0 var(--s-1);
   max-width: 900px;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end !important;
+  align-items: flex-start;
 }
 .caption {
   background-color: transparent;
