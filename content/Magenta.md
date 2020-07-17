@@ -8,7 +8,7 @@ header_img = "https://cdn-images-1.medium.com/max/2560/1*94Tk4ZnULL4NnQiDgVO7tg.
 header_desc = ""
 +++
 
-**[\*Magenta** **Ceib]**(https://twitter.com/magentaceiba)a is the Executive Creative Officer of [\*\*Bloom Network](**https://bloomnetwork.org/), a global community of regenerative culture leaders that gather online and in-person to collaboratively envision a brighter future. Magenta is also a classical pianist and calls herself an imagination healer, trying to help people change their reality where imagination is suppressed by a hierarchical distribution of power, focusing instead on creating alternative societies, business networks, and creative communities in harmonious relationship with the Earth. In this interview we talk about how Bloom Network fosters and scales regenerative cult\*ure practices and solutions globally.
+_[Magenta Ceib](https://twitter.com/magentaceiba) is the Executive Creative Officer of [Bloom Network](**https://bloomnetwork.org/), a global community of regenerative culture leaders that gather online and in-person to collaboratively envision a brighter future. Magenta is also a classical pianist and calls herself an imagination healer, trying to help people change their reality where imagination is suppressed by a hierarchical distribution of power, focusing instead on creating alternative societies, business networks, and creative communities in harmonious relationship with the Earth. In this interview we talk about how Bloom Network fosters and scales regenerative culture practices and solutions globally._
 
 **Bloom Network is a global community of regenerative culture leaders. Could you explain what “regenerative culture” means?**
 

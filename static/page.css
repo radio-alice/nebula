@@ -5,12 +5,12 @@ body {
 }
 header {
   font-family: Selectric;
-  height: 70%;
+  min-height: 75vh;
   padding: var(--s1);
   background-attachment: fixed;
   background-size: cover;
   display: flex;
-  justify-content: end !important;
+  justify-content: flex-end !important;
   align-items: center;
   flex-direction: column;
 }
@@ -27,8 +27,7 @@ header div {
   max-width: 100%;
 }
 article {
-  margin-top: var(--s3);
-  margin-bottom: var(--s3);
+  margin: var(--s3) 5vw;
   align-items: center;
   line-height: 2rem;
   font-family: Standard;
